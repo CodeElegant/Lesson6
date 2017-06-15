@@ -1,7 +1,7 @@
 /**
  *   @author Bates, Howard (hbates@northmen.org)
  *   @version 0.0.1
- *   @summary Code demonstration: Collections (Arrays) :: created:
+ *   @summary Code demonstration: Collections (Arrays) :: created: 6.13.2017
  *   @todo Nothing
  */
 
